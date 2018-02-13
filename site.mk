@@ -5,8 +5,6 @@
 GLUON_SITE_PACKAGES := \
 	gluon-mesh-batman-adv-14 \
 	gluon-respondd \
-	gluon-autoupdater \
-	gluon-config-mode-autoupdater \
 	gluon-config-mode-contact-info \
 	gluon-config-mode-core \
 	gluon-config-mode-geo-location \
@@ -16,7 +14,6 @@ GLUON_SITE_PACKAGES := \
 	gluon-ebtables-filter-ra-dhcp \
 	gluon-neighbour-info \
 	gluon-luci-admin \
-	gluon-luci-autoupdater \
 	gluon-luci-portconfig \
 	gluon-luci-wifi-config \
 	gluon-next-node \
